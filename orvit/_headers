@@ -1,0 +1,7 @@
+/*
+  X-Robots-Tag: noindex, nofollow
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(self "https://script.google.com" "https://*.googleusercontent.com"), geolocation=(self "https://script.google.com" "https://*.googleusercontent.com")
+
+/index.html
+  Cache-Control: no-cache
